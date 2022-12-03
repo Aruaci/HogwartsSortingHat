@@ -6,6 +6,9 @@ import os
 import random
 
 from data_preprocessing import questions
+from magicMouth import MagicMouth
+
+mouth = MagicMouth()
 
 Gryffindor = 0
 Ravenclaw = 0
@@ -17,10 +20,7 @@ with sr.Microphone() as source:
     r.adjust_for_ambient_noise(source)
 
 def play_audio(filename):
-    # MAC
-    os.system("afplay " + f'./Voicelines/{filename}.wav') #security issue but we keep for now
-    # LINUX: 
-    # os.system("mpg123 " + f'./Voicelines/{filename}.wav')
+    mouth.speak(f'./Voicelines/{filename}.wav')
 
 random_phrases = ['hmm', 'thank_you_for_looking_so_good', 'very_interesting']
 def play_random_phrases():
