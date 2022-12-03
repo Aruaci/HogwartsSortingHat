@@ -1,3 +1,5 @@
+#!/usr/bin/env python3
+
 import speech_recognition as sr
 from Levenshtein import distance as lev
 import os

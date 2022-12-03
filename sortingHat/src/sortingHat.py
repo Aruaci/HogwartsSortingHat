@@ -1,9 +1,6 @@
 #!/usr/bin/env python3
-import time
-
 from mouthServo import MouthServo
+from magicMouth import MagicMouth
 
-mouthServo1 = MouthServo(17)
-mouthServo1.start()
+mouth = MagicMouth()
 
-time.sleep(10)

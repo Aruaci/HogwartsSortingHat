@@ -12,5 +12,9 @@ class MouthServo:
         self.outputPin = GPIO.PWM(self.pinNumber, 50)
         self.outputPin.start(5)
 
+    def moveTo(self, where):
+        self.outputPin.ChangeDutyCycle(where)
+    
+
     def __del__(self):
         self.outputPin.stop()
