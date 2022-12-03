@@ -1,0 +1,125 @@
+q_ID;answer_txt;gryffindor;ravenclaw;hufflepuff;slytherin
+1;Dawn;27,31307938;25,92258493;-28,87112887;-22,21557617
+1;Dusk;-27,07398054;-25,53254608;30,81085673;23,30406316
+2;Forest;28,81628797;26,53804988;-29,61546288;-24,03943097
+2;River;-27,41760127;-25,25110895;29,47879885;25,29708668
+3;Moon;-26,99015136;29,21779485;-24,15712033;24,38099947
+3;Stars;28,653864;-28,67894522;26,97274135;-24,67312267
+4;Black;28,91718573;-21,62314612;-30,0065675;25,44278097
+4;White;-29,32055396;24,3783615;32,97249578;-25,34810279
+5;Heads;-25,36928858;22,41930741;32,6497265;-27,11046939
+5;Tails;30,63227296;-23,60407631;-31,08418312;25,892524
+6;Left;-27,37364476;28,45701138;-23,55695615;25,02450925
+6;Right;27,02941592;-27,55102988;25,78541162;-23,44987827
+7;The small tortoiseshell box, embellished with gold, inside which some small creature seems to be squeaking.;-22,52161163;-11,39500098;46,9276079;-10,3717712;008_Q7_A1
+7;The gleaming jet black box with a silver lock and key, marked with a mysterious rune that you know to be the mark of Merlin.;-10,90548604;-9,593133701;-16,14193004;38,09339906;009_Q7_A2
+7;The ornate golden casket, standing on clawed feet, whose inscription warns that both secret knowledge and unbearable temptation lie within.;-12,21860138;37,71117418;-10,66015592;-13,04771215;010_Q7_A3
+7;The small pewter box, unassuming and plain, with a scratched message upon it that reads ‘I open only for the worthy.’;42,85559784;-13,92739453;-18,49815241;-7,988791579;011_Q7_A4
+8;Attempt to confuse the troll into letting all three of you pass without fighting?;-12,21949559;39,18673579;-14,32592834;-10,15802264;013_Q8_A1
+8;Suggest drawing lots to decide which of you will fight?;-16,77231763;-9,948193394;45,02575153;-15,61728574;014_Q8_A2
+8;Suggest that all three of you should fight (without telling the troll)?;-7,926035393;-10,24499201;-15,64058444;37,26154927;015_Q8_A3
+8;Volunteer to fight?;40,38906615;-7,371976409;-20,39648571;-11,08309843;016_Q8_A4
+9;A crackling log fire;42,20240168;-8,357753463;-22,78056435;-8,243194893;018_Q9_A1
+9;The sea;-8,586342901;-7,507111586;-16,19218269;35,04330848;019_Q9_A2
+9;Fresh parchment;-12,55006436;38,93217968;-11,48254915;-14,14056557;020_Q9_A3
+9;Home;-14,20337805;-16,50952349;45,40854108;-13,23654274;021_Q9_A4
+10;Lie and say you don’t know (but hope that somebody else tells Professor Flitwick the truth).;-13,48432155;-17,29439279;41,3626604;-8,254486504;023_Q10_A1
+10;Tell Professor Flitwick that he ought to ask your classmate (and resolve to tell your classmate that if he doesn’t tell the truth, you will).;42,1033363;-13,65683918;-13,49218299;-12,21474272;024_Q10_A2
+10;Tell Professor Flitwick the truth. If your classmate is prepared to win by cheating, he deserves to be found out. Also, as you are both in the same house, any points he loses will be regained by you, for coming first in his place.;-10,92391358;38,69530242;-13,4125977;-12,69153243;025_Q10_A3
+10;You would not wait to be asked to tell Professor Flitwick the truth. If you knew that somebody was using a forbidden quill, you would tell the teacher before the exam started.;-13,12925161;-8,009293327;-13,65120757;36,94995767;026_Q10_A4
+11;Hunger;-28,21972672;26,96307844;31,95072949;-29,10382335
+11;Cold;-24,05310951;-23,48514187;27,93543613;21,04293859
+11;Loneliness;29,03349777;-28,05313842;24,90792029;-23,82686029
+11;Boredom;29,94248441;-19,42137955;-35,99363729;26,75190709
+11;Being ignored;-26,09709417;31,63714224;-24,79204017;21,68704531
+12;The silver leafed tree bearing golden apples;-11,70832774;38,10156627;-10,47728774;-14,4066053
+12;The fat red toadstools that appear to be talking to each other;-11,38975609;-19,363342;45,66505899;-12,41636611
+12;The bubbling pool, in the depths of which something luminous is swirling;-18,79689945;-8,167283167;-10,95346404;39,02161532
+12;The statue of an old wizard with a strangely twinkling eye;41,23017056;-14,2140387;-17,91308959;-6,702406531
+13;The foaming, frothing, silvery liquid that sparkles as though containing ground diamonds.;-13,99879538;40,11098139;-9,406077434;-15,58163736
+13;The smooth, thick, richly purple drink that gives off a delicious smell of chocolate and plums.;-16,25660413;-14,34614176;46,3278991;-14,08038371
+13;The golden liquid so bright that it hurts the eye, and which makes sunspots dance all around the room.;40,92686336;-11,34270662;-17,29827761;-10,81718067
+13;The mysterious black liquid that gleams like ink, and gives off fumes that make you see strange visions.;-10,00982635;-11,93103289;-11,01834159;34,71808527
+14;The violin;-10,33126266;-10,98565505;-12,52911445;35,07799069
+14;The trumpet;-14,00827913;-14,41607143;43,22386173;-12,52828715
+14;The piano;-12,98508415;40,30457373;-12,26180667;-12,91961924
+14;The drum;44,15185475;-14,48981764;-19,39087512;-7,911670833
+15;Ordinary;-11,75519742;-10,92370078;-10,86606985;35,83478687
+15;Ignorant;-12,60998441;40,265642;-10,2989145;-14,55694498
+15;Cowardly;42,87682039;-15,5525649;-16,60672085;-9,827956095
+15;Selfish;-15,48432768;-18,0245794;45,89311983;-10,87602756
+16;Miss you, but smile;-13,7807683;-13,91040329;46,49760029;-16,18133969
+16;Ask for more stories about your adventures;41,37660787;-11,1817536;-21,22463154;-7,60796961
+16;Think with admiration of your achievements;-10,57625107;40,25907324;-11,94444904;-15,29969347
+16;"I don't care what people think of me after I'm dead; it's what they think of me while I'm alive that counts";-12,2082282;-9,366492361;-12,77709973;36,48253984
+17;The Wise;-12,39357202;40,07671351;-12,50534524;-13,46060562
+17;The Good;-14,87071125;-16,00228703;43,98568091;-11,52986338
+17;The Great;-11,48453278;-10,16648232;-15,37467794;38,23373882
+17;The Bold;41,31616697;-14,48335335;-19,24767597;-5,019035161
+18;Ask what makes them think so?;-18,51698777;43,19651328;-5,627175508;-16,24151016
+18;Agree, and ask whether they’d like a free sample of a jinx?;-5,297205391;-17,31138241;-10,74329071;35,97599782
+18;Agree, and walk away, leaving them to wonder whether you are bluffing?;40,41114795;-8,735245784;-18,1847105;-11,05628226
+18;Tell them that you are worried about their mental health, and offer to call a doctor.;-19,40603566;-12,71912669;45,08269049;-11,02696975
+19;Standing on top of something very high and realizing suddenly that there are no hand- or footholds, nor any barrier to stop you falling.;-16,19003593;38,81152886;-12,6984308;-8,023692844
+19;An eye at the keyhole of the dark, windowless room in which you are locked.;41,33854576;-10,03525098;-15,91229289;-13,32183833
+19;Waking up to find that neither your friends nor your family have any idea who you are.;-12,96227842;-16,55271609;45,43418375;-13,83281749
+19;Being forced to speak in such a silly voice that hardly anyone can understand you, and everyone laughs at you.;-15,94847125;-5,745641099;-14,83832559;38,61738702
+20;Tabby cat;21,85474842;-15,70618627;-18,29258668;13,43032963
+20;Siamese cat;1,195226867;-16,3304582;-16,65956807;34,18266524
+20;Ginger cat;0,839050219;-14,37048947;-16,95729454;33,06015636
+20;Black cat;-3,31335692;-15,09699497;-14,64059784;34,29663831
+20;White cat;-2,010973881;-12,31639926;-14,30409975;30,4632386
+20;Tawny owl;-0,6218274;33,24307636;-15,52800838;-16,11836321
+20;Screech owl;4,48854486;32,14465664;-17,05815483;-18,02695104
+20;Brown owl;0,915519162;35,14392634;-16,87498976;-18,23297959
+20;Snowy owl;-12,04575153;8,511453759;13,7489804;-8,123961651
+20;Barn owl;-1,251899991;34,06472026;-16,7952532;-15,0925878
+20;Common toad;-1,094048974;-21,72975856;41,40180117;-16,72326959
+20;Natterjack toad;-3,687242276;-21,61573659;42,45530748;-15,4372711
+20;Dragon toad;19,14913015;-8,1912111;0,748385153;-10,04837708
+20;Harlequin toad;-5,394126249;-20,42261255;42,91383116;-15,27359533
+20;Three toed tree toad;-10,19693536;7,340865871;12,782762;-6,99714692
+21;Love?;-15,09086809;-13,3779201;43,10458952;-13,19529925
+21;Glory?;43,15790393;-12,41975537;-18,22940109;-10,43593648
+21;Wisdom?;-15,52102159;42,01691959;-8,467320109;-15,59260888
+21;Power?;-12,48667468;-10,53541555;-11,03327086;36,26321903
+22;The power to read minds;-24,17506604;28,02462586;-25,1266397;22,78835747
+22;The power of invisibility;30,94950708;-16,89419896;2,016868281;-14,33237054
+22;The power of superhuman strength;-21,74919519;-23,24640341;35,67345622;11,88982939
+22;The power to speak to animals;-26,37624459;19,87071358;34,83739639;-26,54712946
+22;The power to change the past;0,332990318;-17,10768552;-14,56762339;33,38204993
+22;The power to change your appearance at will;-2,458592609;35,53189074;-13,20459011;-17,12880799
+23;The wide, sunny, grassy lane;-11,22676033;-19,11937453;44,82488386;-11,93639792
+23;The narrow, dark, lantern-lit alley;-8,811621902;-12,02741304;-14,9112595;37,69703494
+23;The twisting, leaf-strewn path through woods;42,24315194;-12,70821137;-18,82743135;-9,136595044
+23;The cobbled street lined with ancient buildings;-12,43166553;35,99676211;-8,879904942;-12,94114978
+24;Proceed with caution, keeping one hand on your concealed wand and an eye out for any disturbance?;-14,65804948;-15,8493254;44,16189924;-11,70782536
+24;Draw your wand and try to discover the source of the noise?;39,6505303;-10,56490073;-17,17403609;-10,73515537
+24;Draw your wand and stand your ground?;-10,77612981;-13,71260225;-11,14976792;37,69080105
+24;Withdraw into the shadows to await developments, while mentally reviewing the most appropriate defensive and offensive spells, should trouble occur?;-11,6321132;37,79842292;-12,45575343;-12,64871392
+25;Apparition and Disapparition (being able to materialize and dematerialize at will);31,23750325;-25,11011193;-28,8908555;25,28530318
+25;Transfiguration (turning one object into another object);-14,19988561;38,71431659;-9,304880652;-13,19296379
+25;Flying on a broomstick;29,72186159;-27,4287872;21,78213483;-20,92465167
+25;Hexes and jinxes;-7,778462793;-13,81585107;-13,30728434;35,89289216
+25;All about magical creatures, and how to befriend/care for them;-12,54890353;-18,47726582;48,09882314;-15,26330099
+25;Secrets about the castle;42,92989547;-9,446864814;-19,33008843;-13,34053828
+25;Every area of magic I can;-11,12421806;39,19823338;-9,845999385;-16,51249774
+26;Centaurs;27,3714009;24,0994136;-27,38973573;-22,53814016
+26;Goblins;-19,64625528;31,81426945;-18,49200208;8,733770043
+26;Merpeople;-22,93634644;-24,86864463;28,12543954;21,80812282
+26;Ghosts;27,95707126;27,5289272;-30,00833793;-23,97913683
+26;Vampires;-11,72034886;-10,41163098;-11,93375648;36,37906121
+26;Werewolves;24,35997997;-25,33791883;27,00762335;-24,61394017
+26;Trolls;-28,33101425;-24,04994569;34,15713638;19,82128656
+27;First, a nearly perfected cure for dragon pox. Then student records going back 1000 years. Finally, a mysterious handwritten book full of strange runes.;29,36249156;-26,05442147;22,00609388;-23,63817211
+27;First, student records going back 1000 years. Then a mysterious handwritten book full of strange runes. Finally, a nearly perfected cure for dragon pox.;-9,379429293;-7,076799721;-13,36717194;31,65289076
+27;First, a mysterious handwritten book full of strange runes. Then a nearly perfected cure for dragon pox. Finally, student records going back 1000 years.;-9,700034249;42,34681029;-10,37103553;-20,32349944
+27;First, a nearly perfected cure for dragon pox. Then a mysterious handwritten book full of strange runes. Finally, student records going back 1000 years.;43,98182657;-7,569136306;-22,75962425;-11,54315695
+27;First student records going back 1000 years. Then, a nearly perfected cure for dragon pox. Finally, a mysterious handwritten book full of strange runes.;-6,966899719;-17,49563511;41,93544305;-15,12882189
+27;First, a mysterious handwritten book full of strange runes. Then student records going back 1000 years. Finally, a nearly perfected cure for dragon pox.;-24,05779612;29,0768229;-23,46927222;20,08155918
+28;Envied?;-23,38608287;29,56240784;-24,43494458;20,27897556
+28;Imitated?;-10,02110229;41,34717373;-13,15711695;-15,54384446
+28;Trusted?;27,74841466;-26,66929985;25,37043067;-24,89501457
+28;Praised?;34,35667446;-14,96501695;-28,68955105;10,71436737
+28;Liked?;-10,98726978;-16,01999991;43,07559247;-13,92482477
+28;Feared?;-11,84099775;-9,375944575;-10,65163345;33,45753935
